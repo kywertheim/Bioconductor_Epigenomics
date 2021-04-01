@@ -1,4 +1,4 @@
-# EpigenomicsBioconductor
+# Bioconductor_Epigenomics
 Context: I wrote the R script named 'HW1.R' for the first assignment of the Coursera course entitled 'Bioconductor for Genomic Data Science'.
 
 About:
